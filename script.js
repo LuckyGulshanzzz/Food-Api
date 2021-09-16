@@ -24,7 +24,7 @@ function generateHTML(results){
 		container.classList.remove('initial');
 		generatedHTML+=
 		`<div class="item">
-					<img src="${result.recipe.image} alt="${result.recipe.label}"">
+					<img src="${result.recipe.image}">
 					<div class="flex-container">
 						<h1 class="title">${result.recipe.label}</h1>
 						<a href="#" class="view-button">View Recipe</a>
