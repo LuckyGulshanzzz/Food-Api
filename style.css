@@ -122,6 +122,7 @@ form ion-icon{
 @media (max-width: 768px){
 	.search-result{
 		grid-gap: 10px;
+    
 	}
 	.container.initial .brand{
 		font-size: 4rem;
